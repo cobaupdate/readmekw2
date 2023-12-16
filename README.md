@@ -7,12 +7,12 @@
 
 <h2 align="center"> Executive Summary </h2>
 <div align="center" style="text-align: justify">
-  Banyak orang tua membebaskan anak yang masih berusia dini bermain sendiri dengan gawai. Dibuktikan dengan laporan Badan Pusat Statistik (BPS), pada tahun 2022     sebanyak 33,44% anak usia 0-6 tahun di Indonesia sudah terbiasa menggunakan ponsel. Penggunaan gawai pada usia dini di luar pengawasan orang tua, menghilangkan   nilai kemanfaatan dari gawai itu sendiri. Dampak terburuknya, mampu menyebabkan ikatan orang tua dan anak menjadi semakin renggang. Sehingga di rancang aplikasi Smiling ini dengan tujuan membantu orang tua bonding (membangun hubungan/ikatan) dengan anak.
+  Pada era globalisasi seperti sekarang ini, masakan Nusantara  semakin tidak populer dan kalah oleh pengaruh masakan luar yang berasal dari Negara lain. Di Indonesia masih banyak masyarakat lokal justru kurang mengenal dan tidak menyukai masakan tradisional Indonesia. Oleh karena itu diperlukan penyedia informasi guna memperluas pengenalan dan wawasan akan masakan Nusantara kepada masyarakat sehingga masakan Nusantara akan menjadi lebih dikenal.
 </div>
 
 <h2 align="center"> Project Scope & Deliverables </h2>
 <div align="center" style="text-align: justify">
-  Pada era globalisasi seperti sekarang ini, masakan Nusantara  semakin tidak populer dan kalah oleh pengaruh masakan luar yang berasal dari Negara lain. Di Indonesia masih banyak masyarakat lokal justru kurang mengenal dan tidak menyukai masakan tradisional Indonesia. Oleh karena itu diperlukan penyedia informasi guna memperluas pengenalan dan wawasan akan masakan Nusantara kepada masyarakat sehingga masakan Nusantara  akan menjadi lebih dikenal.
+Peran Lezatara sebagai penyedia artikel resep masakan Nusantara sangat penting ditandai dengan kelebihan yang ditawarkan diharapkan dapat membantu masyarakat untuk lebih mengenal masakan Nusantara yang ada di Indonesia dan tetap mengupayakan kelestarian masakan tradisional di tanah air. Selain itu Proyek ini dapat di akses secara offline dan online jadi saat tidak ada internet aplikasi tetap bisa di buka.
 </div>
 
 <div align="center" text-align=" left" >
