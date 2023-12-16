@@ -1,302 +1,131 @@
-<a name="readme-top"></a>
 
-<!--
-!!! IMPORTANT !!!
-This README is an example of how you could professionally present your codebase. 
-Writing documentation is a crucial part of your work as a professional software developer and cannot be ignored. 
+<h1 align="center">  Lezatara </h1>
 
-You should modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
-
-For more information on the importance of a professional README for your repositories: https://github.com/microverseinc/curriculum-transversal-skills/blob/main/documentation/articles/readme_best_practices.md
--->
-
-<div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Lezatara</b></h3>
-
+ ![img 3](src/public/beranda.png)
+<div align="center" style="text-align: justify">
+  <p>Lezatara adalah sebuah platform daring (website) yang bertujuan untuk memperkenalkan, melestarikan, dan membagikan kelezatan masakan Nusantara. Aplikasi ini dirancang untuk memberikan informasi yang lengkap dan mudah diakses seputar resep-resep masakan Indonesia, termasuk bahan-bahan, langkah-langkah, dan informasi tambahan mengenai resep makanan di setiap regional wilayah indonesia, dalam website ini kami membagi ke 6 regional besar di wilayah indonesia diantaranya, Sumatera, Jawa, Bali Nusra, Kalimantan, Sulawesi, dan terakhir Papua Maluku.</p>
 </div>
 
-<!-- TABLE OF CONTENTS -->
-
-# 📗 Table of Contents
-
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Setup](#setup)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#deployment)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
-- [📝 License](#license)
-
-<!-- PROJECT DESCRIPTION -->
-
-# 📖 Lezatara <a name="about-project"></a>
-
-**Lezatara** adalah sebuah platform daring (website) yang bertujuan untuk memperkenalkan, melestarikan, dan membagikan kelezatan masakan Nusantara. Aplikasi ini dirancang untuk memberikan informasi yang lengkap dan mudah diakses seputar resep-resep masakan Indonesia, termasuk bahan-bahan, langkah-langkah, dan informasi tambahan mengenai resep makanan di setiap regional wilayah indonesia, dalam website ini kami membagi ke 6 regional besar di wilayah indonesia diantaranya, Sumatera, Jawa, Bali Nusra, Kalimantan, Sulawesi, dan terakhir Papua Maluku.
-
-
-## 🛠 Project Resource <a name="project-resource"></a>
-
-### Bahasa Pemrograman & Tools <a name="pl-tools"></a>
-<details>
-  <summary>HTML</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>CSS</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Bootstrap</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
-
-<details>
-  
-<summary>Visual Studio Code</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Bootstrap</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
-
-<!-- Features -->
-
-### Key Features <a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
-
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
+<h2 align="center"> Executive Summary </h2>
+<div align="center" style="text-align: justify">
+  Pada era globalisasi seperti sekarang ini, masakan Nusantara semakin tidak populer dan kalah oleh pengaruh masakan luar yang berasal dari Negara lain. Di Indonesia masih banyak masyarakat lokal justru kurang mengenal dan tidak menyukai masakan tradisional Indonesia. Oleh karena itu diperlukan penyedia informasi guna memperluas pengenalan dan wawasan akan masakan Nusantara kepada masyarakat sehingga masakan Nusantara akan menjadi lebih dikenal.
+</div>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
 - [Live Demo Link](https://google.com)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<h2 align="center"> Dokumentasi API & Git Back-End </h2>
 
-<!-- GETTING STARTED -->
+<div align="center" text-align=" left" >
+ 
+  Untuk Dokumentasi API dan Git Back-End dari Aplikasi Smiling ini bisa akess link berikut: <br>
+ 
+ 
+   <table>
+    <tr>
+      <th> Smiling_API </th>
+      <th> Back-end </th>
+    </tr>
+    <tr>
+     <td> https://smiling-api-docs.netlify.app/#/ </td>
+     <td> https://github.com/diazkhalid/smiling-back-end-wdb   </td>
+    </tr>
+  </table>
+       
+  
+ 
+ </div>
 
-## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
 
-To get a local copy up and running, follow these steps.
+<h2 align="center"> Project </h2>
 
-### Prerequisites
 
-In order to run this project you need:
+<div align="center" text-align=" left" >
 
-<!--
-Example command:
+  <table>
+    <tr>
+      <th> ID CAPSTONE </th>
+      <th> TEMA </th>
+      <th> JUDUL </th>
+    </tr>
+    <tr>
+     <td>  C23-M4002 </td>
+     <td>  SOLUSI UTILITAS </td>
+     <td>  Smiling (Stories for Family Bonding) </td>
+    </tr>
+  </table>
 
-```sh
- gem install rails
-```
- -->
+ </div>
 
-### Setup
 
-Clone this repository to your desired folder:
 
-<!--
-Example commands:
+<h2 align="center"> Features </h2>
 
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
+<div align="center" style="text-align: justify">
+  WEB Manifest || PWA 
+</div> 
 
-### Install
+<h2 align="center"> Deploy & Database </h2>
 
-Install this project with:
+<div align="center" style="text-align: justify">
+  <table>
+    <tr>
+      <th> Deploy </th>
+      <th> Database </th>
+    </tr>
+    <tr>
+     <td>   Netlify || Vercel   </td>
+     <td>  PostgreSQL  </td>
+    </tr>
+  </table>
+</div>                     
 
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
-
-### Usage
-
-To run the project, execute the following command:
-
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
-
-### Run tests
-
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
+👤 **Syahrul Amri**
 
-👤 **Author1**
+- LinkedIn: [Syahrulamri](https://www.linkedin.com/in/syahrul-amri-1b8338197/)
+- Github: [@syahrulamri11](https://github.com/syahrulamri11)
+- Instagram: [@syahrul11_amri](https://www.instagram.com/syahrul11_amri/)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 **Fadia Indah Sari**
 
-👤 **Author2**
+- LinkedIn: [FadiaIns](https://www.linkedin.com/in/fadia-indah-sari-23007427a)
+- Github: [@syfaacanzz](https://github.com/syfaacanzz)
+- Instagram: [@insfdiaaa____](https://www.instagram.com/insfdiaaa____/)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+👤 **Haida Khoirurrosyid**
 
-<!-- FUTURE FEATURES -->
+- LinkedIn: [HaidaKhoirurrosyid](https://www.linkedin.com/in/haidakhoirurrosyid/)
+- Github: [@ocid13](https://github.com/ocid13)
+- Instagram: [@hhayycidd__](https://www.instagram.com/hhayycidd__/)
 
-## 🔭 Future Features <a name="future-features"></a>
+👤 **Rizky Agung**
 
-> Describe 1 - 3 features you will add to the project.
+- LinkedIn: [Rizky](https://www.linkedin.com/in/rizky-agung-a2946a288)
+- Github: [@RizkyAgung26](https://github.com/RizkyAgung26)
+- Instagram: [@riiizky_agung](https://www.instagram.com/riiizky_agung/)
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+👤 **Andhika Trisna Putra**
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+- LinkedIn: [Andhika](https://www.linkedin.com/in/andhika-trisna-645523194/)
+- Github: [@Andhikatp30](https://github.com/Andhikatp30)
+- Instagram: [@andhika30_](https://www.instagram.com/andhika30_/)
 
-<!-- CONTRIBUTING -->
+### Bahasa Pemrograman dan Tools
+[<img align="left" alt="HTML" width="48px" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="CSS" width="48px" height="48" src="https://img.icons8.com/plasticine/48/css3.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="JAVASCRIPT" width="48px" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="BOOTSTRAP" width="48px" height="48" src="https://img.icons8.com/color/48/bootstrap.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="VisualStudioCode" width="48px"  height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Postman" width="48px" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Eslint" width="48px" height="48" src="https://img.icons8.com/fluency/48/node-js.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="postgresql" width="48px" height="48" src="https://img.icons8.com/plasticine/48/postgreesql.png" alt="postgreesql" style="padding-right:10px;"/>][webdev]
+<br />
+<br />
 
-## 🤝 Contributing <a name="contributing"></a>
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- SUPPORT -->
-
-## ⭐️ Show your support <a name="support"></a>
-
-> Write a message to encourage readers to support your project
-
-If you like this project...
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGEMENTS -->
-
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank...
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
-
-## 📝 License <a name="license"></a>
-
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+[webdev]: https://github.com/fahrual/fahrual
