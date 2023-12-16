@@ -68,28 +68,40 @@ For more information on the importance of a professional README for your reposit
 **Lezatara** adalah sebuah platform daring (website) yang bertujuan untuk memperkenalkan, melestarikan, dan membagikan kelezatan masakan Nusantara. Aplikasi ini dirancang untuk memberikan informasi yang lengkap dan mudah diakses seputar resep-resep masakan Indonesia, termasuk bahan-bahan, langkah-langkah, dan informasi tambahan mengenai resep makanan di setiap regional wilayah indonesia, dalam website ini kami membagi ke 6 regional besar di wilayah indonesia diantaranya, Sumatera, Jawa, Bali Nusra, Kalimantan, Sulawesi, dan terakhir Papua Maluku.
 
 
-## 🛠 Built With <a name="built-with"></a>
+## 🛠 Project Resource <a name="project-resource"></a>
 
-### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
+### Bahasa Pemrograman & Tools <a name="pl-tools"></a>
 <details>
-  <summary>Client</summary>
+  <summary>HTML</summary>
   <ul>
     <li><a href="https://reactjs.org/">React.js</a></li>
   </ul>
 </details>
 
 <details>
-  <summary>Server</summary>
+  <summary>CSS</summary>
   <ul>
     <li><a href="https://expressjs.com/">Express.js</a></li>
   </ul>
 </details>
 
 <details>
-<summary>Database</summary>
+<summary>Bootstrap</summary>
+  <ul>
+    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+  </ul>
+</details>
+
+<details>
+  
+<summary>Visual Studio Code</summary>
+  <ul>
+    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>Bootstrap</summary>
   <ul>
     <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
   </ul>
