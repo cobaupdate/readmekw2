@@ -10,7 +10,6 @@
   Pada era globalisasi seperti sekarang ini, masakan Nusantara  semakin tidak populer dan kalah oleh pengaruh masakan luar yang berasal dari Negara lain. Di Indonesia masih banyak masyarakat lokal justru kurang mengenal dan tidak menyukai masakan tradisional Indonesia. Oleh karena itu diperlukan penyedia informasi guna memperluas pengenalan dan wawasan akan masakan Nusantara kepada masyarakat sehingga masakan Nusantara akan menjadi lebih dikenal.
 </div>
 
-<h2 align="center"> Project Scope & Deliverables </h2>
 <div align="center" style="text-align: justify">
 Peran Lezatara sebagai penyedia artikel resep masakan Nusantara sangat penting ditandai dengan kelebihan yang ditawarkan diharapkan dapat membantu masyarakat untuk lebih mengenal masakan Nusantara yang ada di Indonesia dan tetap mengupayakan kelestarian masakan tradisional di tanah air. Selain itu Proyek ini dapat di akses secara offline dan online jadi saat tidak ada internet aplikasi tetap bisa di buka.
 </div>
