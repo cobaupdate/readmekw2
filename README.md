@@ -1,157 +1,291 @@
-<h1 align="center">  Lezatara </h1>
+<a name="readme-top"></a>
 
- ![img 3](src/public/beranda.png)
-<div align="center" style="text-align: justify">
-  <p>Aplikasi Lezatara dirancang dengan memperhatikan berbagai kebutuhan pengguna yang ingin menjelajahi, memasak, dan mendalami kekayaan kuliner Nusantara. Dengan fokus pada kemudahan penggunaan dan penyediaan informasi resep yang lengkap. Pada website ini pula terdapat fitur searching untuk mempersingkat pengalaman pengguna dalam mencari resep makanan yang diinginkan, selain itu ada fitur favorite yang dapat digunakan untuk menyimpan makanan kesukaan pengguna.</p>
+<!--
+!!! IMPORTANT !!!
+This README is an example of how you could professionally present your codebase. 
+Writing documentation is a crucial part of your work as a professional software developer and cannot be ignored. 
+
+You should modify this file to match your project and remove sections that don't apply.
+
+REQUIRED SECTIONS:
+- Table of Contents
+- About the Project
+  - Built With
+  - Live Demo
+- Getting Started
+- Authors
+- Future Features
+- Contributing
+- Show your support
+- Acknowledgements
+- License
+
+OPTIONAL SECTIONS:
+- FAQ
+
+After you're finished please remove all the comments and instructions!
+
+For more information on the importance of a professional README for your repositories: https://github.com/microverseinc/curriculum-transversal-skills/blob/main/documentation/articles/readme_best_practices.md
+-->
+
+<div align="center">
+  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
+  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
+
+  <h3><b>Microverse README Template</b></h3>
+
 </div>
 
-<h2 align="center"> Executive Summary </h2>
-<div align="center" style="text-align: justify">
-  Pada era globalisasi seperti sekarang ini, masakan Nusantara  semakin tidak populer dan kalah oleh pengaruh masakan luar yang berasal dari Negara lain. Di Indonesia masih banyak masyarakat lokal justru kurang mengenal dan tidak menyukai masakan tradisional Indonesia. Oleh karena itu diperlukan penyedia informasi guna memperluas pengenalan dan wawasan akan masakan Nusantara kepada masyarakat sehingga masakan Nusantara akan menjadi lebih dikenal.
-</div>
+<!-- TABLE OF CONTENTS -->
 
-<h2 align="center">  </h2>
-<div align="center" style="text-align: justify">
-Peran Lezatara sebagai penyedia artikel resep masakan Nusantara sangat penting ditandai dengan kelebihan yang ditawarkan diharapkan dapat membantu masyarakat untuk lebih mengenal masakan Nusantara yang ada di Indonesia dan tetap mengupayakan kelestarian masakan tradisional di tanah air. Selain itu Proyek ini dapat di akses secara offline dan online jadi saat tidak ada internet aplikasi tetap bisa di buka.
-</div>
+# 📗 Table of Contents
 
-<div align="center" text-align=" left" >
- 
- #### 1.  Aplikasi online/offline berbasis website yang menampilkan berbagai macam cerita.
- #### 2.  Fitur pencarian cerita untuk menemukan cerita yang diinginkan.
- #### 3.  Fitur add favorite dan unlike favortie untuk menambahkan cerita yang disukai dan juga untuk membatalkan buku favortie.
- #### 4.  Fitur add review untuk memberikan ulasan tentang cerita yang dibaca.
- #### 5.  Fitur music untuk memberikan pengalaman yang lebih baik ketika membaca cerita.
- #### 6.  Fitur kontak kami untuk memberikan ulasan atau masukan mengenai proyek.
- 
- </div>
- 
- <div align="center" text-align=" left" >
- 
- Adapun cakupan pengerjaan proyek yang kami kerjakan selama 5 minggu yang dimana pada tiap minggu ada 2 poin yang harus diselesaikan pada minggu itu kecuali untuk minggu ke 3 disana terdapat 3 poin yang harus dikerjakan. Untuk detail nya akan dijabarkan pada tabel berikut.
- 
- </div>
- 
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Setup](#setup)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
+- [📝 License](#license)
 
-| Minggu           | Aktivitas | Deskripsi |
-| -------          | -------   | -------   |
-| Minggu 1, 16 Mei 2023 | Akuisisi Data dan Analisis Kebutuhan Pengguna | Di minggu pertama, kami memulai proyek dengan mengakuisisi data, hal ini bertujuan untuk memperoleh data-data yang menjadi faktor pendukung dalam pembuatan website. Dari data yang diperoleh, akan dilakukan analisis terhadap kebutuhan pengguna, terkait apa saja yang dibutuhkan oleh pengguna agar bisa diimplementasikan pada aplikasi. |
-| Minggu 2, 22 Mei 2023 | Desain Sistem (UI/UX) dan Konfigurasi Workspace | Pada minggu kedua diisi dengan membuat rancangan desain UI/UX sebagai referensi gambaran dari tampilan aplikasi yang akan dibuat. Kemudian dilanjutkan dengan konfigurasi workspace yang akan digunakan dalam pengembangan website. |
-| Minggu 3, 29 Mei 2023 | Pembuatan Front End Halaman Katalog Cerita kemudian Halaman Lain pada Navigasi dan Pembuatan Front End Halaman Detail Setiap Item | Pada minggu ketiga diisi dengan membuat Front End halaman inti dari website. Kemudian dilanjutkan pada halaman detail untuk setiap item yang ada pada website. Pembuatan Front End pada website akan disesuaikan dengan desain sistem yang telah dibuat sebelumnya. |
-| Minggu 4, 5 juni 2023 | Pembuatan Private API beserta Dokumentasi dan Pembuatan Back End Website | Pada minggu keempat diisi dengan pembuatan private API beserta dokumentasinya. Kemudian dilanjutkan dengan pembuatan Back End pada website. Dengan begitu, konten yang disajikan pada halaman website dimuat langsung dari API yang telah dibuat sebelumnya. Hal ini bertujuan agar konten yang ditampilkan bersifat dinamis, dan memudahkan admin/operator website dalam melakukan CRUD. |
-| Minggu 5, 12 juni 2023 | Testing dan Deployment Website | Pada minggu terakhir diisi dengan melakukan testing pada website, dengan tujuan untuk memeriksa apakah website sudah bekerja dan berjalan dengan semestinya atau masih terdapat bug yang dapat mempengaruhi pengalaman pengguna. Setelahnya akan dilakukan deployment versi final dari website. |
+<!-- PROJECT DESCRIPTION -->
 
+# 📖 [your_project_name] <a name="about-project"></a>
 
+> Describe your project in 1 or 2 sentences.
 
-<h2 align="center"> Risk and Issue Management Plan </h2>
+**[your_project__name]** is a...
 
-<div align="center" text-align=" left" >
- 
-Berikut merupakan beberapa faktor yang dapat menunda pembuatan proyek website yang akan dibangun dan bagaimana mengidentifikasi serta menyelesaikan isu yang mungkin terjadi selama pengerjaan proyek. Proyek ini dibagi menjadi 3 deliverables utama yaitu pada tabel berikut. 
- 
- </div>
+## 🛠 Built With <a name="built-with"></a>
 
-| Kondisi           | Penyebab | Dampak | Mitigasi   |
-| -------           | -------   | -------| -------   |
-| Anggota tim menemui error atau bug yang susah diperbaiki. | Kesalahan terjadi saat menulis, mengedit, atau mengubah kode | Fitur yang ada pada website tidak bisa berjalan. |  Menerapkan praktik pengkodean yang baik, seperti mengikuti standar penulisan kode, melakukan code review, dan menggunakan alat analisis statis untuk mendeteksi kesalahan umum. |
-| Anggota tim mengalami urgensi seperti sakit atau kondisi lain yang tidak dapat ditinggalkan. | Faktor cuaca. | Menghambat jalannya timeline yang sudah direncanakan. | Sebisa mungkin untuk mendahului pengerjaan dari timeline yang sudah direncanakan |
-| Biaya. |    | Project yang dihasilkan akan apa adanya karena kurangnya biaya untuk mengembangkan proyek. | Menggunakan layanan hosting dan tools gratis. |
-| Miss komunikasi. | Anggota tim terkadang suka miss komunikasi ketika mengerjakan proyek. | Proyek tidak sesuai dengan rencana dan akan menimbulkan conflict kita akan di push. | Selalu berkomunikasi dengan tim baik ketika akan mengupdate  proyek maupun ketika akan push proyek. |
-| Anggota tim memiliki kesibukan pribadi. | Anggota tim memiliki kesibukan pribadi selain untuk proyek. | Menghambat proses pengerjaan proyek. |  Setalah selesai  melakukan kesibukan pribadi langsung kembali mengerjakan proyek. |                 
-| Anggota tim sering melakukan perubahan jadwal. | Anggota tim terkadang memiliki agenda dadakan. | Timeline pengerjaan proyek yang sudah diatur jadi mundur. | Mengkonfirmasi secepatnya ke anggota tim ketika memiliki agenda dadakan agar dapat merubah jadwal pengerjaan proyek. |
-| Susah untuk menentukan Ide kontent proyek. | Kurang mencari refrensi.  | isi konten pada proyek tidak banyak. |  Mencari refrensi sebanyak mungkin agar dapat mengimplementasikannya pada proyek. |
+### Tech Stack <a name="tech-stack"></a>
 
+> Describe the tech stack and include only the relevant sections that apply to your project.
 
-<h2 align="center"> Dokumentasi API & Git Back-End </h2>
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">React.js</a></li>
+  </ul>
+</details>
 
-<div align="center" text-align=" left" >
- 
-  Untuk Dokumentasi API dan Git Back-End dari Aplikasi Smiling ini bisa akess link berikut: <br>
- 
- 
-   <table>
-    <tr>
-      <th> Smiling_API </th>
-      <th> Back-end </th>
-    </tr>
-    <tr>
-     <td> https://smiling-api-docs.netlify.app/#/ </td>
-     <td> https://github.com/diazkhalid/smiling-back-end-wdb   </td>
-    </tr>
-  </table>
-       
-  
- 
- </div>
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="https://expressjs.com/">Express.js</a></li>
+  </ul>
+</details>
 
+<details>
+<summary>Database</summary>
+  <ul>
+    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+  </ul>
+</details>
 
+<!-- Features -->
 
-<h2 align="center"> Project </h2>
+### Key Features <a name="key-features"></a>
 
+> Describe between 1-3 key features of the application.
 
-<div align="center" text-align=" left" >
+- **[key_feature_1]**
+- **[key_feature_2]**
+- **[key_feature_3]**
 
-  <table>
-    <tr>
-      <th> ID CAPSTONE </th>
-      <th> TEMA </th>
-      <th> JUDUL </th>
-    </tr>
-    <tr>
-     <td>  C23-M4002 </td>
-     <td>  SOLUSI UTILITAS </td>
-     <td>  Smiling (Stories for Family Bonding) </td>
-    </tr>
-  </table>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
- </div>
+<!-- LIVE DEMO -->
 
+## 🚀 Live Demo <a name="live-demo"></a>
 
+> Add a link to your deployed project.
 
-<h2 align="center"> Features </h2>
+- [Live Demo Link](https://google.com)
 
-<div align="center" style="text-align: justify">
-  WEB Manifest || PWA || Multi Platform
-</div> 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<h2 align="center"> Deploy & Database </h2>
+<!-- GETTING STARTED -->
 
-<div align="center" style="text-align: justify">
-  <table>
-    <tr>
-      <th> Deploy </th>
-      <th> Database </th>
-    </tr>
-    <tr>
-     <td>   Netlify || Vercel   </td>
-     <td>  PostgreSQL  </td>
-    </tr>
-  </table>
-</div>                     
+## 💻 Getting Started <a name="getting-started"></a>
 
-## Team 
-#### 1. [Fahru Alfarizi Hananza Putrawan](https://www.linkedin.com/in/fahru-alfarizi-hananza-putrawan-94379b26a/)| UNIVERSITAS MATARAM | `F009XA014` 
+> Describe how a new developer could make use of your project.
 
-#### 2. [Diaz Khalid Ananda](https://www.linkedin.com/in/diaz-khalid-ananda-5a135a267/)| UNIVERSITAS MATARAM | `F009XA017`
+To get a local copy up and running, follow these steps.
 
-#### 3. [I Gusti Agung Ngurah Oka Devara Jelantik](https://www.linkedin.com/in/okadevara/)| ITB STIKOM BALI | `F060XA154`
+### Prerequisites
 
-#### 4. [I Made Adi Sukma Meta](https://www.linkedin.com/in/adi-sukma-a5485b176/)| ITB STIKOM BALI | `F060XA084`
+In order to run this project you need:
 
-### Bahasa Pemrograman dan Tools
-[<img align="left" alt="HTML" width="48px" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="CSS" width="48px" height="48" src="https://img.icons8.com/plasticine/48/css3.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="JAVASCRIPT" width="48px" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="BOOTSTRAP" width="48px" height="48" src="https://img.icons8.com/color/48/bootstrap.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="VisualStudioCode" width="48px"  height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Postman" width="48px" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Eslint" width="48px" height="48" src="https://img.icons8.com/fluency/48/node-js.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Eslint" width="48px" height="48" src="https://img.icons8.com/color/48/eslint.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="postgresql" width="48px" height="48" src="https://img.icons8.com/plasticine/48/postgreesql.png" alt="postgreesql" style="padding-right:10px;"/>][webdev]
+<!--
+Example command:
 
-[<img align="left" alt="postgresql" width="48px" height="48" src="https://img.icons8.com/color/48/000000/mongodb.png" alt="postgreesql" style="padding-right:10px;"/>][webdev]
+```sh
+ gem install rails
+```
+ -->
 
-<br />
-<br />
+### Setup
 
-[webdev]: https://github.com/fahrual/fahrual
+Clone this repository to your desired folder:
+
+<!--
+Example commands:
+
+```sh
+  cd my-folder
+  git clone git@github.com:myaccount/my-project.git
+```
+--->
+
+### Install
+
+Install this project with:
+
+<!--
+Example command:
+
+```sh
+  cd my-project
+  gem install
+```
+--->
+
+### Usage
+
+To run the project, execute the following command:
+
+<!--
+Example command:
+
+```sh
+  rails server
+```
+--->
+
+### Run tests
+
+To run tests, run the following command:
+
+<!--
+Example command:
+
+```sh
+  bin/rails test test/models/article_test.rb
+```
+--->
+
+### Deployment
+
+You can deploy this project using:
+
+<!--
+Example:
+
+```sh
+
+```
+ -->
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
+
+> Mention all of the collaborators of this project.
+
+👤 **Author1**
+
+- GitHub: [@githubhandle](https://github.com/githubhandle)
+- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+
+👤 **Author2**
+
+- GitHub: [@githubhandle](https://github.com/githubhandle)
+- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> Describe 1 - 3 features you will add to the project.
+
+- [ ] **[new_feature_1]**
+- [ ] **[new_feature_2]**
+- [ ] **[new_feature_3]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+> Write a message to encourage readers to support your project
+
+If you like this project...
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+> Give credit to everyone who inspired your codebase.
+
+I would like to thank...
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FAQ (optional) -->
+
+## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+
+> Add at least 2 questions new developers would ask when they decide to use your project.
+
+- **[Question_1]**
+
+  - [Answer_1]
+
+- **[Question_2]**
+
+  - [Answer_2]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
