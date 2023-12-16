@@ -1,8 +1,8 @@
-<h1 align="center">  Smiling (Stories for Family Bonding) </h1>
+<h1 align="center">  Lezatara </h1>
 
  ![img 3](src/public/beranda.png)
 <div align="center" style="text-align: justify">
-  <p>Aplikasi Smiling (Stories for Family Bonding) dibangun sebagai <b>solusi</b> pemanfaatan gawai untuk memudahkan bonding keluarga sekaligus menarik perhatian   anak. Aplikasi ini berisi cerita anak yang disertai media ilustrasi dan musik latar, sehingga orang tua dan anak bisa berinteraksi melalui aktivitas membaca       bersama.</p>
+  <p>Aplikasi Lezatara dirancang dengan memperhatikan berbagai kebutuhan pengguna yang ingin menjelajahi, memasak, dan mendalami kekayaan kuliner Nusantara. Dengan fokus pada kemudahan penggunaan dan penyediaan informasi resep yang lengkap. Pada website ini pula terdapat fitur searching untuk mempersingkat pengalaman pengguna dalam mencari resep makanan yang diinginkan, selain itu ada fitur favorite yang dapat digunakan untuk menyimpan makanan kesukaan pengguna.</p>
 </div>
 
 <h2 align="center"> Executive Summary </h2>
@@ -12,7 +12,7 @@
 
 <h2 align="center"> Project Scope & Deliverables </h2>
 <div align="center" style="text-align: justify">
-  Tujuan akhir dari projek ini adalah untuk memberikan solusi pada masyarakat khususnya untuk orang tua dan anak agar dapat membangun hubungan kedekatan dengan anak. Dengan berbagai cerita dan tentunya dengan konten yang menarik mulai dari kisah, gambar dan musik yang memungkinkan pengguna ( orang tua dan anak) akan merasa nyaman dalam menggunakan proyek ini. Selain itu Proyek ini dapat di akses secara offline dan online jadi saat tidak ada internet aplikasi tetap bisa di buka.
+  Pada era globalisasi seperti sekarang ini, masakan Nusantara  semakin tidak populer dan kalah oleh pengaruh masakan luar yang berasal dari Negara lain. Di Indonesia masih banyak masyarakat lokal justru kurang mengenal dan tidak menyukai masakan tradisional Indonesia. Oleh karena itu diperlukan penyedia informasi guna memperluas pengenalan dan wawasan akan masakan Nusantara kepada masyarakat sehingga masakan Nusantara  akan menjadi lebih dikenal.
 </div>
 
 <div align="center" text-align=" left" >
