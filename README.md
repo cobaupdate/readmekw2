@@ -33,7 +33,7 @@ For more information on the importance of a professional README for your reposit
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>Lezatara</b></h3>
 
 </div>
 
@@ -63,11 +63,10 @@ For more information on the importance of a professional README for your reposit
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 Lezatara <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+**Lezatara** adalah sebuah platform daring (website) yang bertujuan untuk memperkenalkan, melestarikan, dan membagikan kelezatan masakan Nusantara. Aplikasi ini dirancang untuk memberikan informasi yang lengkap dan mudah diakses seputar resep-resep masakan Indonesia, termasuk bahan-bahan, langkah-langkah, dan informasi tambahan mengenai resep makanan di setiap regional wilayah indonesia, dalam website ini kami membagi ke 6 regional besar di wilayah indonesia diantaranya, Sumatera, Jawa, Bali Nusra, Kalimantan, Sulawesi, dan terakhir Papua Maluku.
 
-**[your_project__name]** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
 
