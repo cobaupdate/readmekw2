@@ -11,25 +11,27 @@
   Pada era globalisasi seperti sekarang ini, masakan Nusantara semakin tidak populer dan kalah oleh pengaruh masakan luar yang berasal dari Negara lain. Di Indonesia masih banyak masyarakat lokal justru kurang mengenal dan tidak menyukai masakan tradisional Indonesia. Oleh karena itu diperlukan penyedia informasi guna memperluas pengenalan dan wawasan akan masakan Nusantara kepada masyarakat sehingga masakan Nusantara akan menjadi lebih dikenal.
 </div>
 
-## 🚀 Live Demo <a name="live-demo"></a>
+<h2 align="center">Live Demo </h2>
 
-- [Live Demo Link](https://google.com)
+<div align="center">
+<a href="https://google.com" text-align="center">Live Demo Link</a>
+</div>
 
 <h2 align="center"> Dokumentasi API & Git Back-End </h2>
 
 <div align="center" text-align=" left" >
  
-  Untuk Dokumentasi API dan Git Back-End dari Aplikasi Smiling ini bisa akess link berikut: <br>
+  Untuk Dokumentasi API dan Git Back-End dari Aplikasi Lezatara ini bisa akses link berikut: <br>
  
  
    <table>
     <tr>
-      <th> Smiling_API </th>
+      <th> Lezatara_API </th>
       <th> Back-end </th>
     </tr>
     <tr>
-     <td> https://smiling-api-docs.netlify.app/#/ </td>
-     <td> https://github.com/diazkhalid/smiling-back-end-wdb   </td>
+     <td> https://lezatara.netlify.app/ </td>
+     <td> https://lezatara-backend.vercel.app/   </td>
     </tr>
   </table>
        
@@ -51,9 +53,9 @@
       <th> JUDUL </th>
     </tr>
     <tr>
-     <td>  C23-M4002 </td>
-     <td>  SOLUSI UTILITAS </td>
-     <td>  Smiling (Stories for Family Bonding) </td>
+     <td>  C523-PS068 </td>
+     <td>  Teknologi dalam Berbagai Aspek Kehidupan </td>
+     <td>  Lezatara </td>
     </tr>
   </table>
 
@@ -80,8 +82,15 @@
      <td>  PostgreSQL  </td>
     </tr>
   </table>
-</div>                     
+</div>                  
 
+<h2 align="center"> Manajemen Proyek </h2>
+
+- Figma
+- Github
+-  WhatsApp
+- Google meet
+- Google Docs
 
 ## 👥 Authors <a name="authors"></a>
 
@@ -116,7 +125,8 @@
 - Github: [@Andhikatp30](https://github.com/Andhikatp30)
 - Instagram: [@andhika30_](https://www.instagram.com/andhika30_/)
 
-### Bahasa Pemrograman dan Tools
+## Bahasa Pemrograman dan Tools
+
 [<img align="left" alt="HTML" width="48px" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="CSS" width="48px" height="48" src="https://img.icons8.com/plasticine/48/css3.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="JAVASCRIPT" width="48px" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" style="padding-right:10px;" />][webdev]
@@ -125,6 +135,7 @@
 [<img align="left" alt="Postman" width="48px" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Eslint" width="48px" height="48" src="https://img.icons8.com/fluency/48/node-js.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="postgresql" width="48px" height="48" src="https://img.icons8.com/plasticine/48/postgreesql.png" alt="postgreesql" style="padding-right:10px;"/>][webdev]
+[<img align="left" alt="figma" width="48px" height="48" src="https://img.icons8.com/color/48/000000/figma.png" alt="figma" style="padding-right:10px;"/>][webdev]
 <br />
 <br />
 
