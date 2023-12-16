@@ -84,14 +84,6 @@
   </table>
 </div>                  
 
-<h2 align="center"> Manajemen Proyek </h2>
-
-- Figma
-- Github
--  WhatsApp
-- Google meet
-- Google Docs
-
 ## 👥 Authors <a name="authors"></a>
 
 👤 **Syahrul Amri**
@@ -136,7 +128,14 @@
 [<img align="left" alt="Eslint" width="48px" height="48" src="https://img.icons8.com/fluency/48/node-js.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="postgresql" width="48px" height="48" src="https://img.icons8.com/plasticine/48/postgreesql.png" alt="postgreesql" style="padding-right:10px;"/>][webdev]
 [<img align="left" alt="figma" width="48px" height="48" src="https://img.icons8.com/color/48/000000/figma.png" alt="figma" style="padding-right:10px;"/>][webdev]
+[<img align="left" alt="googlemeet" width="48px" height="48" src="https://img.icons8.com/color/48/000000/google-meet.png" alt="googlemeet" style="padding-right:10px;"/>][webdev]
+
+[<img align="left" alt="googledocs" width="48px" height="48" src="https://img.icons8.com/color/48/000000/google-docs.png" alt="googledocs" style="padding-right:10px;"/>][webdev]
+
+[<img align="left" alt="whatsapp" width="48px" height="48" src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="whatsapp" style="padding-right:10px;"/>][webdev]
+
+[<img align="left" alt="github" width="48px" height="48" src="https://img.icons8.com/color/48/000000/github.png" alt="github" style="padding-right:10px;"/>][webdev]
 <br />
 <br />
 
-[webdev]: https://github.com/fahrual/fahrual
+[webdev]: https://github.com/syfaacanzz/syfaacanzz
